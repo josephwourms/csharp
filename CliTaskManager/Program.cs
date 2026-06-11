@@ -52,7 +52,7 @@ switch (command)
 void PrintUsage()
 {
     Console.WriteLine("\n=================================");
-    Console.WriteLine("      Zed CLI Todo Manager       ");
+    Console.WriteLine("      CLI Todo Manager       ");
     Console.WriteLine("=================================");
     Console.WriteLine("Usage:");
     Console.WriteLine("  dotnet run list");
