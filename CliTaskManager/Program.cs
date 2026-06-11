@@ -55,8 +55,8 @@ void PrintUsage()
     Console.WriteLine("      Zed CLI Todo Manager       ");
     Console.WriteLine("=================================");
     Console.WriteLine("Usage:");
-    Console.WriteLine("  dotnet run -- list");
-    Console.WriteLine("  dotnet run -- add \"Your task here\"");
-    Console.WriteLine("  dotnet run -- complete [id]");
-    Console.WriteLine("  dotnet run -- delete [id]");
+    Console.WriteLine("  dotnet run list");
+    Console.WriteLine("  dotnet run add \"Your task here\"");
+    Console.WriteLine("  dotnet run complete [id]");
+    Console.WriteLine("  dotnet run delete [id]");
 }
